@@ -1,6 +1,6 @@
-# GMAIL-CLONE
+# MESSAGING-APP
 
-![Demo](https://user-images.githubusercontent.com/46050946/122208292-bf181000-cec0-11eb-936c-91b229eba259.png)
+![Demo](https://github.com/uchiha-suraj/messaging-app/issues/1#issue-937584083)
 
 ### 1. [Key Features](#key-features) 
 ### 2. [Technologies I've used](#technologies-ive-used)
@@ -10,8 +10,6 @@
 
     🟢 Fully functional real time chat feature.
     🟢 smooth type chat box.
-
-  **[⬆ Back to Top](#gmail-clone)**
 
 ## Technologies I've used:
 
@@ -24,5 +22,5 @@
     🔷 Firebase => to deploy the app
 
     
-  **[⬆ Back to Top](#gmail-clone)**
+ 
 
