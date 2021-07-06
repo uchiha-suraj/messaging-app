@@ -1,6 +1,7 @@
 # MESSAGING-APP
 
-![Demo](https://github.com/uchiha-suraj/messaging-app/issues/1#issue-937584083)
+![messaging_app](https://user-images.githubusercontent.com/46050946/124557094-bc249580-de56-11eb-83c0-4cd949e178f1.png)
+
 
 ### 1. [Key Features](#key-features) 
 ### 2. [Technologies I've used](#technologies-ive-used)
